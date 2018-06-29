@@ -133,6 +133,9 @@
 	"Opensource lincense": {
 		"ko": "오픈소스 라이선스"
 	},
+	"You can use the latest Entry Hardware version(%1).": {
+		"ko": "엔트리 하드웨어 새 버전(%1)을 사용하실 수 있습니다."
+	},
 	"Close": {
 		"ko": "닫기"
 	}

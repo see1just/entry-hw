@@ -21,7 +21,7 @@
             localStorage.removeItem('hasNewVersion');
             modal
                 .alert(
-                    Lang.Msgs.version_update_msg1.replace(
+                    translator.translate('You can use the latest Entry Hardware version(%1).').replace(
                         /%1/gi,
                         hasNewVersion
                     ),

@@ -25,6 +25,7 @@ let hostProtocol = 'https:';
 
 global.sharedObject = {
     appName: 'hardware',
+    version: packageJson.version,
 };
 
 console.fslog = function(text) {
