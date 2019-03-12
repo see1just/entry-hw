@@ -5,7 +5,8 @@ const { remote } = require('electron');
 
 function Translator() {
 	var langs = {
-		ko: 'ko'
+    ko: 'ko',
+    uz: 'uz'
 	};
 	var lang = remote.getCurrentWindow().curLang;
 	lang = langs[lang];
