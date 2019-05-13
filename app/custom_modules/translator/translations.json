@@ -2,7 +2,8 @@
 	"en": {
 		"en-GB": "en",
 		"en-US": "en",
-		"ko": "ko"
+		"ko": "ko",
+		"ru": "ru"
 	},
 	"If unexpected problem occurs while operating,": {
     "ko": "하드웨어 연결과 작동 시 예기치 못한 문제가 발생할 수 있습니다.",
